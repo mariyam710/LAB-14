@@ -19,7 +19,7 @@ public class Division {
 			System.out.println("Answer is :" + num1/num2);
 		}
 		catch (InputMismatchException e) {
-			System.out.println("Only whole numbers should be eneterd. ");
+			System.out.println("Only whole numbers  be eneterd. ");
 		}
 			
 		}
